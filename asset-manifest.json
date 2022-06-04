@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Cyborg-task-3-Sorting-App-/static/css/main.ecbb606b.css",
+    "main.js": "/Cyborg-task-3-Sorting-App-/static/js/main.c175964f.js",
+    "static/js/787.c0acd340.chunk.js": "/Cyborg-task-3-Sorting-App-/static/js/787.c0acd340.chunk.js",
+    "index.html": "/Cyborg-task-3-Sorting-App-/index.html",
+    "main.ecbb606b.css.map": "/Cyborg-task-3-Sorting-App-/static/css/main.ecbb606b.css.map",
+    "main.c175964f.js.map": "/Cyborg-task-3-Sorting-App-/static/js/main.c175964f.js.map",
+    "787.c0acd340.chunk.js.map": "/Cyborg-task-3-Sorting-App-/static/js/787.c0acd340.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ecbb606b.css",
+    "static/js/main.c175964f.js"
+  ]
+}
