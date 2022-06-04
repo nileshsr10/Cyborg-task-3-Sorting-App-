@@ -1,0 +1,18 @@
+.container {
+    /* border: 2px solid red; */
+    display: flex;
+    position: absolute;
+    bottom: 10vh;
+    left: 10vw;
+    align-items: flex-end;
+
+}
+
+.array-bar {
+    border: 2px solid rgb(8, 185, 11);
+    background-color: #a9d2c4;
+    color: #a9d2c4;
+    width: 40px;
+    display: inline;
+    margin: 0px 6px;  
+}
